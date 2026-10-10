@@ -1,0 +1,6 @@
+{
+  "name": "PyWeather Tk — OpenWeatherMap Desktop Suite",
+  "description": "Python Tkinter desktop weather application with OpenWeatherMap free-tier integration, Pillow icon loader, multi-threaded networking, IP geolocation, and interactive desktop simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

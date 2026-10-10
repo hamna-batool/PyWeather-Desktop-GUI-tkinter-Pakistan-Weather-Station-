@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  body, input, select {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #F4F7FB;
+    color: #0F172A;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, button, .font-display {
+    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+
+
+
+
+
